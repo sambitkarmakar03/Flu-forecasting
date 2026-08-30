@@ -63,3 +63,20 @@ cd Flu-forecasting
 
 # Run preprocessing notebook or script
 python Preprocess/preprocess.py  # or execute Preprocess/preprocess.ipynb
+
+
+# Exploratory Data Analysis (EDA) — Time Series Influenza Forecasting
+
+This directory contains the exploratory data analysis pipeline for the Time Series Influenza Forecasting project. The objective of this phase is to clean, transform, and analyze global and regional influenza surveillance data to uncover temporal trends, seasonality patterns, and data quality issues prior to predictive modeling.
+
+---
+
+## 📁 Directory Overview
+
+```text
+Preprocess/
+├── data_analysis.ipynb      # Primary Jupyter Notebook for data cleaning, visualization, and EDA
+
+
+pip install pandas numpy matplotlib seaborn plotly
+
