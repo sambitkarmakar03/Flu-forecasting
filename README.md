@@ -1,7 +1,3 @@
-An updated, unified **`README.md`** file that integrates the raw preprocessing pipeline, exploratory data analysis architecture, full modeling methodology, backtesting strategy, and benchmark analytics is provided below. It retains a precise, clean Markdown structure.
-
----
-
 # Multi-Country Influenza Forecasting & Epidemic Spike Detection
 
 A comprehensive, multi-country surveillance, feature engineering, modeling, and evaluation pipeline built on WHO FluNet and FluID weekly surveillance data. This project processes historical surveillance across four distinct epidemiological seasonality regimes (**USA**, **UK**, **India**, and **Japan**) to engineer, train, and benchmark probabilistic outbreak detection and 52-week time-series forecasting models.
